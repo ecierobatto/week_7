@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 This project is to conduct Exploratory Data Analysis on ** Univariate, ** Bivariate, and ** Multivariate variables in the given dataset below.
-
+http://bit.ly/FinancialDataset
 ## Research Question
 Figuring out how we can predict which individuals are most likely to have or use a bank account.
 ## User Requirements
