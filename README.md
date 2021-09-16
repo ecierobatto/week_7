@@ -3,6 +3,8 @@ This project is to conduct Exploratory Data Analysis on ** Univariate, ** Bivari
 http://bit.ly/FinancialDataset
 ## Research Question
 Figuring out how we can predict which individuals are most likely to have or use a bank account.
+
+This https://colab.research.google.com/drive/1g4T9Hbf8ExzgZWcV-dYY1NKXDboTLpCa?usp=sharing is the link to the respective analysis
 ## User Requirements
 Python Notebook with Jupyter for the analysis
 ## Univariate Analysis
